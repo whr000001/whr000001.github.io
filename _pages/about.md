@@ -10,6 +10,6 @@ redirect_from:
 
 Hi, thanks for visiting my website.
 
-I'm a senior undergrad student at Xi'an Jiaotong University, majoring in computer science and technology.
+PhD student at Xi'an Jiaotong University. Advisor:	[Minnan Luo](https://gr.xjtu.edu.cn/en/web/minnluo/home). 
 
-I'm a member of Xi'an Jiaotong University Collegiate Programming Contest school team. You can visit [my blog](https://blog.csdn.net/wanherun) for communication.
+Visit my [Google Scholar](https://scholar.google.com/citations?user=2Mrur7QAAAAJ) homepage.
